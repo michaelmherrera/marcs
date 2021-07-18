@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+    <marc:record>
+        <marc:leader>00946nam a2200277   45e0</marc:leader>
+        <marc:controlfield tag="001">/000000000//</marc:controlfield>
+        <marc:controlfield tag="008">210527c1961    aolmn neo     0   a eng d</marc:controlfield>
+        <marc:controlfield tag="003">0</marc:controlfield>
+        <marc:datafield tag="043" ind1=" " ind2=" ">
+            <marc:subfield code="a">n-us-ca</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="050" ind1="0" ind2="0">
+            <marc:subfield code="a">Newspaper</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="222" ind1=" " ind2="4">
+            <marc:subfield code="a">The Aragon Outlook</marc:subfield>
+            <marc:subfield code="b">(Aragon High School)</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="0" ind2="4">
+            <marc:subfield code="a">The Aragon Outlook</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">San Mateo, Calif. :</marc:subfield>
+            <marc:subfield code="b">Aragon High School,</marc:subfield>
+            <marc:subfield code="c">1961-</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="310" ind1=" " ind2=" ">
+            <marc:subfield code="a">Monthly</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" ">
+            <marc:subfield code="a">text</marc:subfield>
+            <marc:subfield code="b">txt</marc:subfield>
+            <marc:subfield code="2">rdacontent</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="362" ind1="0" ind2=" ">
+            <marc:subfield code="a">Vol. 1, no. 1 (Sept. 1961)- </marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="651" ind1=" " ind2="4">
+            <marc:subfield code="a">San Mateo (Calif.)</marc:subfield>
+            <marc:subfield code="v">Newspapers.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="651" ind1=" " ind2="4">
+            <marc:subfield code="a">San Francisco Bay Area (Calif.)</marc:subfield>
+            <marc:subfield code="v">Newspapers.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="651" ind1=" " ind2="4">
+            <marc:subfield code="a">California</marc:subfield>
+            <marc:subfield code="z">San Mateo.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="651" ind1=" " ind2="4">
+            <marc:subfield code="a">California</marc:subfield>
+            <marc:subfield code="z">San Francisco Bay Area.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="655" ind1=" " ind2="4">
+            <marc:subfield code="a">Electronic journals.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="655" ind1=" " ind2="4">
+            <marc:subfield code="a">Periodicals.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="655" ind1=" " ind2="4">
+            <marc:subfield code="a">Newspapers.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="752" ind1=" " ind2=" ">
+            <marc:subfield code="a">United States</marc:subfield>
+            <marc:subfield code="b">California</marc:subfield>
+            <marc:subfield code="c">San Mateo (County)</marc:subfield>
+            <marc:subfield code="d">San Mateo</marc:subfield>
+            <marc:subfield code="g">Aragon High School.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="775" ind1="1" ind2=" ">
+            <marc:subfield code="t">Monthly Aragon High School student newspaper</marc:subfield>
+            <marc:subfield code="e">eng</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2=" ">
+            <marc:subfield code="u">https://aragonoutlook.org</marc:subfield>
+            <marc:subfield code="y">AragonOutlook.org</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+</marc:collection>
