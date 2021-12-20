@@ -3,6 +3,9 @@
     <controlfield tag="001">/000000000//</controlfield>
     <controlfield tag="008">210527c1961    aolmn neo     0   a eng d</controlfield>
     <controlfield tag="003">0</controlfield>
+    <datafield ind1=" " ind2=" " tag="010">
+        <subfield code="a">sn 000000000 </subfield>
+    </datafield>
     <datafield tag="043" ind1=" " ind2=" ">
         <subfield code="a">n-us-ca</subfield>
     </datafield>
